@@ -1,0 +1,19 @@
+.background-color {
+  background-color: #133e87;
+}
+
+.navbar {
+  /* background-color: #CBDCEB; */
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  /* background-color: aliceblue; */
+}
+
+.main {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
